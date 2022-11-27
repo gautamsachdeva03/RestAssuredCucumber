@@ -1,0 +1,36 @@
+[INFO ] 2022-11-27 01:04:08.447 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:08.449 [main] Log - $--- API: Retrieve Id of the given coin
+[INFO ] 2022-11-27 01:04:08.449 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:08.449 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:11.285 [main] Log - Result forAPI: Retrieve Id of the given coin: PASSED
+[INFO ] 2022-11-27 01:04:11.285 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-11-27 01:04:11.366 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:11.366 [main] Log - $--- API: Retrieve Id of the given coin and convert them to Bolivian
+[INFO ] 2022-11-27 01:04:11.366 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:11.367 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:13.928 [main] Log - Result forAPI: Retrieve Id of the given coin and convert them to Bolivian: PASSED
+[INFO ] 2022-11-27 01:04:13.928 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-11-27 01:04:13.946 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:13.946 [main] Log - $--- API: Retrieve Id of the given coin and convert them to Bolivian
+[INFO ] 2022-11-27 01:04:13.946 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:13.946 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:16.246 [main] Log - Result forAPI: Retrieve Id of the given coin and convert them to Bolivian: PASSED
+[INFO ] 2022-11-27 01:04:16.247 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-11-27 01:04:16.256 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:16.256 [main] Log - $--- API: Retrieve Id of the given coin and convert them to Bolivian
+[INFO ] 2022-11-27 01:04:16.256 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:16.256 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:17.927 [main] Log - Result forAPI: Retrieve Id of the given coin and convert them to Bolivian: PASSED
+[INFO ] 2022-11-27 01:04:17.928 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-11-27 01:04:17.936 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:17.936 [main] Log - $--- API: Retrieve technical documentation of the given coin
+[INFO ] 2022-11-27 01:04:17.936 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:17.936 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:18.474 [main] Log - Result forAPI: Retrieve technical documentation of the given coin: PASSED
+[INFO ] 2022-11-27 01:04:18.474 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-11-27 01:04:18.485 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:18.485 [main] Log - $--- API: Retrieve technical documentation of the given coin
+[INFO ] 2022-11-27 01:04:18.485 [main] Log - ********************************************************************
+[INFO ] 2022-11-27 01:04:18.486 [main] Log - Loading API properties
+[INFO ] 2022-11-27 01:04:19.235 [main] Log - Result forAPI: Retrieve technical documentation of the given coin: PASSED
+[INFO ] 2022-11-27 01:04:19.235 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$---TEST CASE END---$$$$$$$$$$$$$$$$$$$$$$
